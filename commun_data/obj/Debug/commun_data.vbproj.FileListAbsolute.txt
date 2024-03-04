@@ -1,0 +1,70 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\Administrator\Documents\RAYYA\commun_data\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\Administrator\Documents\commun_data\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\commun_data\commun_data\bin\Debug\commun_data.exe
+C:\Users\Administrator\Documents\commun_data\commun_data\bin\Debug\commun_data.pdb
+C:\Users\Administrator\Documents\commun_data\commun_data\bin\Debug\commun_data.xml
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.exe
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.xml
+C:\Users\Administrator\Documents\commun_data\commun_data\obj\Debug\commun_data.pdb
+E:\commun\commun_data_4sept\commun_data\bin\Debug\commun_data.exe.config
+E:\commun\commun_data_4sept\commun_data\obj\Debug\commun_data.exe
+E:\commun\commun_data_4sept\commun_data\obj\Debug\commun_data.xml
+E:\commun\commun_data_4sept\commun_data\obj\Debug\commun_data.pdb
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.exe
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.xml
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.pdb
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.exe
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.pdb
+C:\Users\Administrator\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.xml
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.exe
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.xml
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.pdb
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.exe
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.pdb
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\bin\Debug\commun_data.xml
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\PC-01\Documents\commun_data_4sept\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\bin\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\bin\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\bin\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\RAYYA MAHIRA\Documents\commun_data_16oct\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\bin\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\bin\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\bin\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\RAYYA MAHIRA\Documents\commun_data_30oct\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\komunitas bm3\commun_data_30oct\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\User\Documents\komunitas bm3\commun_data_30oct\commun_data\obj\Debug\commun_data.exe
+C:\Users\User\Documents\komunitas bm3\commun_data_30oct\commun_data\obj\Debug\commun_data.xml
+C:\Users\User\Documents\komunitas bm3\commun_data_30oct\commun_data\obj\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\bin\Debug\commun_data.exe.config
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\bin\Debug\commun_data.exe
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\bin\Debug\commun_data.pdb
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\bin\Debug\commun_data.xml
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.Form1.resources
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.Resources.resources
+C:\Users\RAYYA MAHIRA\Desktop\KOMUNITAS BM3\desktop\commun_data_30oct\commun_data\obj\Debug\commun_data.vbproj.GenerateResource.Cache
